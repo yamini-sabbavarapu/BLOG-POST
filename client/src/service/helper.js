@@ -1,0 +1,1 @@
+export const BASE_URL="https://blog-post-backend-0e7v.onrender.com"
